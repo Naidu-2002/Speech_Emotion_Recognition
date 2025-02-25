@@ -120,8 +120,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [librosa](https://librosa.org/) for audio processing.
 - [TensorFlow](https://www.tensorflow.org/) for building the LSTM model.
 - [Emotion Dataset](link-to-dataset) for providing the labeled speech data.
-```
 
-Make sure to update placeholders like `your-username` and any dataset link if you want to reference specific datasets.
-
-Let me know if you need any further adjustments!
