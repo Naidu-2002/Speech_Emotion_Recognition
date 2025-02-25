@@ -1,5 +1,3 @@
-Here’s a `README.md` file template you can copy and paste into your GitHub repository:
-
 # Emotion Recognition from Speech Using LSTM
 
 This project implements an emotion recognition system using speech data. It extracts features from audio files and predicts the emotion from the speech using a Long Short-Term Memory (LSTM) neural network model.
