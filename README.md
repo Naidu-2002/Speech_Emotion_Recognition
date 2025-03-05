@@ -102,7 +102,7 @@ The model is trained using categorical cross-entropy loss and Adam optimizer.
 The model achieves an accuracy of **X%** on the emotion recognition task. Further optimization and training with additional data can help improve the performance.
 
 ### Supported Emotions
-The model recognizes the following emotions from speech:
+The model recognizes the following types of emotions from speech:
 - Anger
 - Disgust
 - Fear
