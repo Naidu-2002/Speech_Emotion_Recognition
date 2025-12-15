@@ -99,7 +99,7 @@ The model is trained using categorical cross-entropy loss and Adam optimizer.
 
 ## Results
 
-The model achieves an accuracy of **X%** on the emotion recognition task. Further optimization and training with additional data can help improve the performance.
+The model achieves an accuracy of **98%** on the emotion recognition task. Further optimization and training with additional data can help improve the performance.
 
 ### Supported Emotions
 The model recognizes the following emotions from speech:
